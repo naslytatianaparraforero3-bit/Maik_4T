@@ -1,5 +1,8 @@
 package com.MaikNasP.Taller.entity;
 
-public class PrioridadTarea {
-    
+public enum PrioridadTarea {
+    BAJA,
+    MEDIA,
+    ALTA,
+    URGENTE
 }
